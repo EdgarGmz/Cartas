@@ -1,0 +1,11 @@
+Nombre de la carta
+
+Coste de maná: {X}{X}{X}
+
+Criatura legendaria — Humano [Arquetipo]
+
+[Habilidades estáticas]
+[Habilidades disparadas]
+[Habilidades activadas]
+
+Fuerza / Resistencia
