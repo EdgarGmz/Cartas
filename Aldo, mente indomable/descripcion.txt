@@ -1,0 +1,22 @@
+Aldo, mente indomable
+
+{2}{U}{B}{G}
+Criatura legendaria — Humano Artista
+
+Toque mortal, vínculo vital.
+Migraña (Siempre que un permanente que controla un oponente tenga cuatro o más contadores de aturdimiento sobre él, 
+remueve esos contadores. Ganas control de ese permanente, enderézalo. Gana “Al comienzo del paso final, sacrifica 
+este permanente.”)
+
+Aldo, mente indomable entra al campo de batalla girado.
+Aldo no se endereza durante el paso de enderezar de su controlador.
+La fuerza y resistencia de Aldo son iguales al número de otras criaturas que controlas.
+
+Al comienzo de tu mantenimiento, si Aldo está enderezado, distribuye X contadores de aturdimiento entre cualquier
+número de permanentes objetivo no tierra que controlan tus oponentes, donde X es la mitad de su fuerza, redondeado 
+hacia abajo.
+
+{U}{B}, paga 2 vidas: Endereza a Aldo, mente indomable. Prolifera.
+
+Fuerza / Resistencia:
+*+1 / *+1
