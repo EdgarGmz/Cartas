@@ -1,0 +1,22 @@
+Nehtzy, Aurora de la Mañana
+
+{3} {azul} {verde}
+Criatura Encantamiento Legendaria — Humano Chamán
+
+Daybound
+Nightbound
+
+Cuadno Nehtzy, Aurora de la mañana entre al campo de batalla se hace de día.
+
+Mientras sea de día, al comienzo de tu mantenimiento, crea dos fichas de Comida.
+
+Mientras sea de noche, al comienzo de tu mantenimiento, las fichas de Comida que controlas 
+se convierten en criaturas artefacto — Comida incoloras 1/1.
+
+Mientras controles a Yul, Corazón del Bosque, Nehtzy, Aurora de la Mañana tiene indestructible.
+
+Partner with Yul, Corazón del Bosque
+
+Fuerza / Resistencia
+
+5/5
