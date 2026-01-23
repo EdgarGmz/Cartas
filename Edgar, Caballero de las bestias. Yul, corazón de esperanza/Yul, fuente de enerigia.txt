@@ -1,0 +1,35 @@
+Yul, Fuente de Alegría (Lado A)
+
+Coste de maná: {2}{R}
+
+Criatura encantamiento legendaria — Humano bebé
+
+Palabra clave
+
+Se divierte — Siempre que una o más fuentes que controlas 
+hagan daño a uno o más oponentes.
+
+Habilidades
+
+Yul, Fuente de Alegría tiene antimaleficio mientras controles 
+a Edgar, Caballero de las bestias.
+
+Cada vez que Yul, fuente de alegría se divierte pon un contador 
+de alegría sobre ella. Luego si hay 5 o más contadores de alegría
+sobre ella transformala ->.
+
+Partner with Edgar, Caballero del Bosque
+
+Fuerza / Resistencia:
+1 / 2
+
+
+Yul, fuente inagotable (Lado B)
+
+Coste de maná:{}{}{}
+
+Encantamiento Legendario
+
+En el inicio de combate de tu turno ceaturas que no sean humanos 
+que controlas tienen prisa y arrolla.
+

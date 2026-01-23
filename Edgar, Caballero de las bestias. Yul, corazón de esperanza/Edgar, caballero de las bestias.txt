@@ -1,0 +1,22 @@
+Edgar, Caballero del Bosque
+
+Coste de maná: {3}{blanco}{blanco}{verde}
+
+Criatura legendaria — Humano Caballero
+
+Habilidades
+
+Siempre que Yul, Fuente de Alegría se divierta, pon un contador +1/+1 
+sobre Edgar, Caballero del Bosque.
+
+Al comienzo de tu fase de combate, las otras criaturas que controlas que 
+no sean Humanos obtienen +1/+1 por cada contador +1/+1 sobre 
+Edgar, Caballero del Bosque, hasta el final del turno.
+
+Sacrifica a Edgar, Caballero del Bosque: roba X cartas y ganas 
+X vidas, donde X es la mitad de su fuerza, redondeada hacia abajo. 
+
+Partner with Yul, Fuente de Alegría
+
+Fuerza / Resistencia:
+3 / 3

@@ -2,7 +2,7 @@ Yul, Corazón del Bosque
 
 {blanco}
 
-Criatura encantamiento legendaria — Humano Druida
+Criatura encantamiento legendaria — Humano 
 
 Habilidades estáticas
 

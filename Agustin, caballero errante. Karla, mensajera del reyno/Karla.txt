@@ -1,11 +1,16 @@
 Nombre de la carta
+Karla, mensajera del reyno
+Coste de maná: {2}{blanco}
 
-Coste de maná: {X}{X}{X}
-
-Criatura legendaria — Humano [Arquetipo]
+Criatura legendaria — Humano Clérigo
 
 [Habilidades estáticas]
+Tu primer encantamiento que lances en tu turno cuesta 2 menos.
 [Habilidades disparadas]
-[Habilidades activadas]
+Cada vez que lances un hechizo de encantamiento roba carta.
+
+Cada vez que un encantamiento valla de campo de batalla al cementerio Karla, 
+consejera del Reyno susurra(Exilia el tope la libreria del jugador objetivo, 
+ese hechizo cuesta 2 mas para lanzarlo).
 
 Fuerza / Resistencia

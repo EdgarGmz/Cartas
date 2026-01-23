@@ -1,11 +1,16 @@
 Nombre de la carta
+Agustín, caballero errante
+Coste de maná: {3}{verde}{azul}
 
-Coste de maná: {X}{X}{X}
-
-Criatura legendaria — Humano [Arquetipo]
+Criatura legendaria — Humano Caballero
 
 [Habilidades estáticas]
+Defensor, Alcance.
+La fuerza y resistencia es igual numero de encantamiento que controles.
+
 [Habilidades disparadas]
-[Habilidades activadas]
+Siempre que Agustín, caballero errante reciba 5 daños o mas de combate crea esa misma
+cantidad de humanos clérigos blancos 1 / 1 con Prowess.
 
 Fuerza / Resistencia
+* / 3 + *
